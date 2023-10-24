@@ -1,5 +1,5 @@
 ### Here is a bit about me 👋
-  <div><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Funny GIF" height="300" width="600"></div>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Funny GIF" height="300" width="600">
 
 - 🔭 Full stach developer who mostly works with different frontend and backend technologies.
 - 💻 Always excited to work on Java, Reactjs, Typescript, ROR, RSpec, Redux, Sidekiq with tools github, VS Code.
