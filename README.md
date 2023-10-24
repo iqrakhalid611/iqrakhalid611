@@ -23,7 +23,7 @@
 </div>
 
 ## 📫 Say Hi
-<a href="mailto:iqrafatimame@gmail.com">
+<a href="mailto:iqrakhalidfqw@gmail.com">
 <img  alt="iqrakhalidfqw@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 </a>
  <a href="https://www.linkedin.com/in/iqra-khalid-386291199">
